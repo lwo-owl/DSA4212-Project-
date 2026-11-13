@@ -1,0 +1,17 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+master_code/
+optimisation_results*/
+optimisation_results*.zip
+optimisation_shortlist_results*/
+optimisation_shortlist_results*.zip
+!/results/optimisation_results_full.zip
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
