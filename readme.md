@@ -47,6 +47,3 @@ python report/analyse_report.py PATH_TO_EXTRACTED_FOLDER/results/stage_c_mechani
 
 The script uses its own fixed bootstrap seed, so the interval endpoints may differ slightly from the notebook's summaries.
 
-## Build the report
-
-Set the project GitHub URL in `report/main.tex`. Upload the contents of `report/` to Overleaf and select `main.tex` as the main document, or run `latexmk -pdf main.tex` from that directory. The bibliography uses BibTeX. Use the compiled PDF and the matching repository URL for the Canvas submission.
